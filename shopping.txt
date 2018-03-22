@@ -9,3 +9,4 @@ Pizza
 Schuhe
 Hosen
 T-Shirt
+Pullover
